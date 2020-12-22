@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! Welcome to my GitHub profile. 👋
+
+[![Kewanb Stats](https://github-readme-stats.vercel.app/api?username=kewanfr&theme=dark&show_icons=true)](https://github.com/kewanfr)
+
 
 <!--
 **kewanfr/kewanfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
