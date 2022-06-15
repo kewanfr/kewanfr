@@ -1,6 +1,6 @@
 ### Hi! Welcome to my GitHub profile. 👋
 
-[![Kewanb Stats](https://github-readme-stats.vercel.app/api?username=kewanfr&theme=dark&show_icons=true)](https://github.com/kewanfr)
+<!--[![Kewanb Stats](https://github-readme-stats.vercel.app/api?username=kewanfr&theme=dark&show_icons=true)](https://github.com/kewanfr)-->
 
 
 <!--
