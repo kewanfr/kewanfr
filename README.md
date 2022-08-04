@@ -1,7 +1,14 @@
 ### Hi! Welcome to my GitHub profile. 👋
 
-<!--[![Kewanb Stats](https://github-readme-stats.vercel.app/api?username=kewanfr&theme=dark&show_icons=true)](https://github.com/kewanfr)-->
+[![Kewanb Stats](https://github-readme-stats.vercel.app/api?username=kewanfr&theme=dark&show_icons=true)](https://github.com/kewanfr)
 
+ - 👤 I'm 15 yo student who loves coding and learning new things in IT
+ - 📍 I live in Nantes, in France
+ - 🔭 I’m currently working on my own tools for school, for taking notes in school lessons
+ - 🌱 I'm currently learning Typescript, Nuxt.js and React
+ - 😄 Pronouns: He/Him
+ 
+I started with computers and electronics when I was 9 years old. Since then, I spend my time experimenting with new things, learning new technologies, and increasing my computer skills.
 
 <!--
 **kewanfr/kewanfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
