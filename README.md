@@ -8,7 +8,12 @@
  - 🌱 I'm currently learning Typescript, Nuxt.js and React
  - 😄 Pronouns: He/Him
  
+### About me
 I started with computers and electronics when I was 9 years old. Since then, I spend my time experimenting with new things, learning new technologies, and increasing my computer skills.
+
+I also loves travelling. Since 2016, I travel with my parents across Europe, and I love it. It help me to increase my english skills.
+
+At age 9, I was diagnosed with autism. It is characterized by difficulties in communication and social relationships.
 
 <!--
 **kewanfr/kewanfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
