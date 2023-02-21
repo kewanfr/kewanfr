@@ -1,9 +1,5 @@
 ### Hi! Welcome to my GitHub profile. 👋
 
-[![Kewanb Stats](https://github-readme-stats.vercel.app/api?username=kewanfr&theme=dark&show_icons=true&count_private=true)](https://github.com/kewanfr)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewanfr&layout=compact&theme=tokyonight&langs_count=7) 
-
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kewanfr&repo=mipadre)](https://github.com/kewanfr/mipadre)
 
@@ -20,6 +16,10 @@
 I started with computers and electronics when I was 9 years old. Since then, I spend my time experimenting with new things, learning new technologies, and increasing my computer skills.
 I made a lot of projects in very different languages, which allowed me to have very diverse skills.
 
+
+[![Kewanb Stats](https://github-readme-stats.vercel.app/api?username=kewanfr&theme=dark&show_icons=true&count_private=true)](https://github.com/kewanfr)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewanfr&layout=compact&theme=tokyonight&langs_count=7) 
 <!--
 **kewanfr/kewanfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
