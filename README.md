@@ -4,10 +4,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewanfr&layout=compact&theme=tokyonight&langs_count=7) 
 
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kewanfr&repo=mipadre)](https://github.com/kewanfr/mipadre)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kewanfr)]
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kewanfr)]-->
 
 
  - 👤 I'm 15 yo student who loves coding and learning new things in IT
