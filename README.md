@@ -1,8 +1,12 @@
 ### Hi! Welcome to my GitHub profile. 👋
 
 [![Kewanb Stats](https://github-readme-stats.vercel.app/api?username=kewanfr&theme=dark&show_icons=true&count_private=true)](https://github.com/kewanfr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewanfr&layout=compact&theme=tokyonight&langs_count=7)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewanfr&layout=compact&theme=tokyonight&langs_count=7) 
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kewanfr&repo=mipadre)](https://github.com/kewanfr/mipadre)
+
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kewanfr)]
 
 
