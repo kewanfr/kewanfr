@@ -6,7 +6,7 @@
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kewanfr)]-->
 
 
- - 👤 I'm 15 yo student who loves coding and learning new things in IT
+ - 👤 I'm 16 yo student who loves coding and learning new things in IT
  - 📍 I live in Nantes, in France
  - 🔭 I’m currently working on a project for my uncle to manage the deposits for his brand of rum and beer
  - 🌱 I'm currently learning Typescript, Nuxt.js and React
