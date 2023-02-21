@@ -12,14 +12,13 @@
 
  - 👤 I'm 15 yo student who loves coding and learning new things in IT
  - 📍 I live in Nantes, in France
- - 🔭 I’m currently working on my own tools for school, for taking notes in school lessons
+ - 🔭 I’m currently working on a project for my uncle to manage the deposits for his brand of rum and beer
  - 🌱 I'm currently learning Typescript, Nuxt.js and React
  - 😄 Pronouns: He/Him
  
 ### About me
 I started with computers and electronics when I was 9 years old. Since then, I spend my time experimenting with new things, learning new technologies, and increasing my computer skills.
-
-I also loves travelling. Since 2016, I travel with my parents across Europe, and I love it. It help me to increase my english skills.
+I made a lot of projects in very different languages, which allowed me to have very diverse skills.
 
 <!--
 **kewanfr/kewanfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
