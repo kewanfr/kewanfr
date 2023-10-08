@@ -32,3 +32,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Visitor count
+
+<img src="https://profile-counter.glitch.me/kewanfr/count.svg" />
