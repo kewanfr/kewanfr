@@ -7,7 +7,7 @@
 
  - 👤 I'm 16 yo student who loves coding and learning new things in IT
  - 📍 I live in Nantes, in France
-  - 🌱 I'm currently learning Javascript, Python and Next.js
+ - 🌱 I'm currently learning Typescript, Python and Next.js
  - 😄 Pronouns: He/Him
  
 ### About me
