@@ -6,13 +6,18 @@
 
 
  - 👤 I'm 17 yo student who loves coding and learning new things in IT
- - 📍 I live near Nantes, in France
- - 🌱 I'm currently learning Typescript, Python and Next.js
+ - 📍 I live in Nantes, in France
+ - 📚 I'm currently studying comp-sci and programming at IUT of Nantes (Nantes University)
+ - 🌱 I'm currently learning Golang, Java and Angular
  - 😄 Pronouns: He/Him
  
 ### About me
 I started with computer science and electronics when I was 9 years old. Since then, I spend my time experimenting with new things, learning new technologies, and increasing my computer skills.
 I made a lot of projects in very different languages, which allowed me to have very diverse skills.
+
+👯 I'm looking for a Work-study	for next year in Nantes or around
+
+📫 You can reach me at contact@kewan.fr
 
 <!--
 [![Kewanb Stats](https://github-readme-stats.vercel.app/api?username=kewanfr&theme=dark&show_icons=true&count_private=true)](https://github.com/kewanfr)
