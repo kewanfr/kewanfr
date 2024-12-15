@@ -15,7 +15,6 @@
 I started with computer science and electronics when I was 9 years old. Since then, I spend my time experimenting with new things, learning new technologies, and increasing my computer skills.
 I made a lot of projects in very different languages, which allowed me to have very diverse skills.
 
-👯 I'm looking for a Work-study	for next year in Nantes or around
 
 📫 You can reach me at contact@kewan.fr
 
