@@ -5,7 +5,7 @@
 
 
 
- - 👤 I'm 17 yo student who loves coding and learning new things in IT
+ - 👤 I'm 18 yo student who loves coding and learning new things in IT
  - 📍 I live in Nantes, in France
  - 📚 I'm currently studying comp-sci and programming at IUT of Nantes (Nantes University)
  - 🌱 I'm currently learning Golang, Java and Angular
